@@ -117,6 +117,12 @@ On your Kindle device:
 - Go to **Settings** > **Device Options** > **Device Info**
 - Note the 16-character serial number
 
+#### Registered Devices
+
+| Device | Serial Number |
+|--------|---------------|
+| Kindle Paperwhite Signature Edition (11th gen) | `G001 LG13 3116 00RL` |
+
 #### Step 2: Configure DeDRM Plugin
 
 1. In Calibre: **Preferences** > **Plugins**
